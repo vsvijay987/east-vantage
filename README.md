@@ -8,7 +8,8 @@ In the project directory, you can run:
 
 ### `npm install`
 
-Installs all the dependency required.
+Installs all the required dependencies.
+>>>>>>> e914205cc0416d76b2cab96e7d929e2980976281
 
 ### `npm start`
 
